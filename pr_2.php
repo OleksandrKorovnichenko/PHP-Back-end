@@ -1,7 +1,7 @@
 <?php
 
-$apiKey = "AIzaSyApJI_7WlmSuoWq4idbfD98x-pIsh0tJ6Q";
-$cx = "5482ffb1d875e4b82";
+$apiKey = "";
+$cx = "";
 
 $items = [];
 
