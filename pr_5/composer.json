@@ -1,0 +1,8 @@
+{
+    "name": "lukash/pr5-guestbook",
+    "description": "Practical work #5 guestbook with MVC and OOP",
+    "type": "project",
+    "require": {
+        "symfony/var-dumper": "*"
+    }
+}
